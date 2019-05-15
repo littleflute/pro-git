@@ -1,3 +1,6 @@
+## [v0.0.2](https://github.com/littleflute/pro-git/edit/master/README.md)
+## [https://git-scm.com/book/zh/v2](https://git-scm.com/book/zh/v2)
+
 # Apress Source Code
 
 This repository accompanies [*Pro Git*](http://www.apress.com/9781430218333) by Scott Chacon (Apress, 2009).
