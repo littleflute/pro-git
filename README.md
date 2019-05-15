@@ -1,5 +1,5 @@
-## [v0.0.2](https://github.com/littleflute/pro-git/edit/master/README.md)
-## [https://git-scm.com/book/zh/v2](https://git-scm.com/book/zh/v2)
+## [v0.0.3](https://github.com/littleflute/pro-git/edit/master/README.md)
+## [https://git-scm.com/book/zh/v2](https://git-scm.com/book/zh/v2) [【progit_v2.1.22.pdf】](progit_v2.1.22.pdf)
 
 # Apress Source Code
 
